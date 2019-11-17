@@ -10,5 +10,6 @@ class HelloWorld
         System.out.println("Hello World,"); 
        System.out.println("Hello World NT,");
       System.out.println("Hello World By Imrankhan,");
+       System.out.println("Hello"); 
     } 
 } 
